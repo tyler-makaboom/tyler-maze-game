@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0fc3b779-c69d-4ccb-993f-17195cffd7a4",
+            "Value": {
+                "id": "b8e0c5f1-ec14-4309-8296-3db7a97cc85b",
+                "resourcePath": "objects\\object2\\object2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "243c8f02-c5b4-4609-913f-d32f7936c9e9",
             "Value": {
                 "id": "da411763-ddc3-467f-88e6-38796f3a9cfd",
@@ -71,6 +79,14 @@
             }
         },
         {
+            "Key": "3e759a99-3212-4b66-849a-3aa1edcf4e4f",
+            "Value": {
+                "id": "1a9f4acc-3446-49f2-bf5e-5332d8148284",
+                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "452bb165-6dd7-4d95-b747-28f209976973",
             "Value": {
                 "id": "8930efd1-aa02-4b2d-a7e6-6941c65522d8",
@@ -100,6 +116,14 @@
                 "id": "92c3174c-97e0-44ff-aed1-7ee425b277c5",
                 "resourcePath": "views\\55b12581-9301-4b67-8e0f-005e3b85d07e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "646d1986-61c5-422d-94a6-b23439252098",
+            "Value": {
+                "id": "3668c23d-9e6c-46aa-8cbd-a03a893c8a98",
+                "resourcePath": "objects\\object3\\object3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -151,6 +175,14 @@
             }
         },
         {
+            "Key": "76a751ca-a3cf-4bb6-b054-98f7bf9805dd",
+            "Value": {
+                "id": "d5eb97e3-3f69-4e0e-be84-3cbfe985f2e1",
+                "resourcePath": "fonts\\font0\\font0.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "b4071121-dbbb-4ce4-882b-9b234849b226",
             "Value": {
                 "id": "d30a92e2-bf70-4cfc-b556-13e85675efec",
@@ -188,14 +220,6 @@
                 "id": "f70b7c9d-1f41-4896-b49e-b4d705af9760",
                 "resourcePath": "objects\\object1\\object1.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "d8af31ff-0638-412b-8908-0e3d4f732761",
-            "Value": {
-                "id": "8b67080f-1f73-4e26-b4ca-f05a9a1d5e3d",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
